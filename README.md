@@ -1,7 +1,5 @@
 # RetroBot
-Discord both made for Retro89
-
-This is a sanitized verions of a separate repository to remove information such as secret API keys or database connection info.
+NodeJS based Discord chat bot backed with a MySQL database.
 
 There are three key features of this bot: 
   A simple command system with predefined responses found in most Discord bots
